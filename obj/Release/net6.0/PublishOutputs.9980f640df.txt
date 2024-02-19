@@ -1,0 +1,5 @@
+D:\dotNet\Testing\Players_docker\Players_docker\bin\Release\net6.0\publish\Players_docker.exe
+D:\dotNet\Testing\Players_docker\Players_docker\bin\Release\net6.0\publish\Players_docker.dll
+D:\dotNet\Testing\Players_docker\Players_docker\bin\Release\net6.0\publish\Players_docker.deps.json
+D:\dotNet\Testing\Players_docker\Players_docker\bin\Release\net6.0\publish\Players_docker.runtimeconfig.json
+D:\dotNet\Testing\Players_docker\Players_docker\bin\Release\net6.0\publish\Players_docker.pdb

@@ -1,0 +1,15 @@
+D:\dotNet\Testing\Players_docker\Players_docker\bin\Debug\net6.0\Players_docker.exe
+D:\dotNet\Testing\Players_docker\Players_docker\bin\Debug\net6.0\Players_docker.deps.json
+D:\dotNet\Testing\Players_docker\Players_docker\bin\Debug\net6.0\Players_docker.runtimeconfig.json
+D:\dotNet\Testing\Players_docker\Players_docker\bin\Debug\net6.0\Players_docker.dll
+D:\dotNet\Testing\Players_docker\Players_docker\bin\Debug\net6.0\Players_docker.pdb
+D:\dotNet\Testing\Players_docker\Players_docker\obj\Debug\net6.0\Players_docker.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\Testing\Players_docker\Players_docker\obj\Debug\net6.0\Players_docker.AssemblyInfoInputs.cache
+D:\dotNet\Testing\Players_docker\Players_docker\obj\Debug\net6.0\Players_docker.AssemblyInfo.cs
+D:\dotNet\Testing\Players_docker\Players_docker\obj\Debug\net6.0\Players_docker.csproj.CoreCompileInputs.cache
+D:\dotNet\Testing\Players_docker\Players_docker\obj\Debug\net6.0\Players_docker.sourcelink.json
+D:\dotNet\Testing\Players_docker\Players_docker\obj\Debug\net6.0\Players_docker.dll
+D:\dotNet\Testing\Players_docker\Players_docker\obj\Debug\net6.0\refint\Players_docker.dll
+D:\dotNet\Testing\Players_docker\Players_docker\obj\Debug\net6.0\Players_docker.pdb
+D:\dotNet\Testing\Players_docker\Players_docker\obj\Debug\net6.0\Players_docker.genruntimeconfig.cache
+D:\dotNet\Testing\Players_docker\Players_docker\obj\Debug\net6.0\ref\Players_docker.dll
